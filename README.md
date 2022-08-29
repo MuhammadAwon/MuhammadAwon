@@ -7,7 +7,7 @@ I am a self-taught practitioner of Machine Learning and Deep Learning, intereste
 
 - 🔭 I’m currently working on **Analyzing CIA Factbook Data Using SQL**.
 - 🌱 I’m currently learning **ML Engineering** from [DataTalks.Club](https://datatalks.club/).
-- :v: I’m looking to collaborate on **Data Science**, **Machine Learning**, and **Deep Learning**.
+- :handshake: I’m looking to collaborate on **Data Science**, **Machine Learning**, and **Deep Learning**.
 
 #
 ### Connect with me:
