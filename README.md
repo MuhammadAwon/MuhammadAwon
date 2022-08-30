@@ -3,7 +3,7 @@
 I am a self-taught Machine Learning and Deep Learning practitioner, interested in building Computer Vision and MLOps systems. I like to leverage Machine Learning techniques to solve real-world problems and to learn a lot along with the process.
 
 #
-**Updates**:
+### Updates:
 
 - 🔭 I’m currently working on **Analyzing CIA Factbook Data Using SQL**.
 - 🌱 I’m currently learning **ML Engineering** from [DataTalks.Club](https://datatalks.club/).
