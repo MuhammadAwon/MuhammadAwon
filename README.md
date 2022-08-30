@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Awon!
 
-I am a self-taught practitioner of Machine Learning and Deep Learning, interested in building Computer Vision and MLOps systems. I like to leverage Machine Learning techniques to solve real-world problems and to learn a lot during the process.
+I am a self-taught Machine Learning and Deep Learning practitioner, interested in building Computer Vision and MLOps systems. I like to leverage Machine Learning techniques to solve real-world problems and to learn a lot during the process.
 
 #
 **Updates**:
