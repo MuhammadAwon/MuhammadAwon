@@ -11,7 +11,7 @@ I am a self-taught Machine Learning and Deep Learning practitioner, interested i
 
 #
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/muhammad-awon-561b4922a/)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-awon/)
 - [Twitter](https://twitter.com/Awon24)
 
 #
