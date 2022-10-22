@@ -5,7 +5,7 @@ I am an aspiring Machine Learning and Deep Learning practitioner, interested in 
 #
 ### Updates:
 
-- 🔭 I’m currently working on **Analyzing CIA Factbook Data Using SQL**.
+- 🔭 I’m currently working on **MLZoomcamp Mid-Term Project**.
 - 🌱 I’m currently learning **ML Engineering** from [DataTalks.Club](https://datatalks.club/).
 - :handshake: I’m looking to collaborate on **Data Science**, **Machine Learning**, and **Deep Learning**.
 
