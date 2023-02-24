@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Awon!
 
-I am an aspiring Machine Learning and Deep Learning practitioner, interested in building Computer Vision and MLOps systems. I like to leverage Machine Learning techniques to solve real-world problems and to learn a lot along with the process.
+I am an aspiring practitioner with a passion for building cutting-edge Computer Vision and MLOps systems! My primary goal is to harness the power of Machine Learning techniques to tackle real-world challenges and unlock new opportunities for growth and development. As I work on exciting projects and push the boundaries of what's possible, I'm always on the lookout for opportunities to learn, grow, and collaborate with others who share my passion for Machine Learning and Deep Learning. So why not join me on this exciting journey and let's see where we can take our skills and expertise together?
 
 #
 ### Updates:
 
-- 🔭 I’m currently working on **MLZoomcamp Mid-Term Project**.
-- 🌱 I’m currently learning **ML Engineering** from [DataTalks.Club](https://datatalks.club/).
-- :handshake: I’m looking to collaborate on **Data Science**, **Machine Learning**, and **Deep Learning**.
+- 🔭 I’m currently working on **Dataquest Projects**.
+- 🌱 I’m currently learning **Data Science** from [Dataquest](https://www.dataquest.io/path/data-scientist/).
+- :bulb: I’m looking to collaborate on **Data Science**, **Machine Learning**, and **Deep Learning**.
 
 #
 ### Connect with me:
