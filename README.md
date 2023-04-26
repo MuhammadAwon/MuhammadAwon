@@ -13,6 +13,7 @@ I am an aspiring practitioner with a passion for building cutting-edge MLOps sys
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/muhammad-awon/)
 - [Twitter](https://twitter.com/Awon24)
+- [Kaggle](https://www.kaggle.com/muhammadawon)
 
 #
 <h3 align="left">Languages and Tools:</h3>
