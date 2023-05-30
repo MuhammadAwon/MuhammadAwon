@@ -4,7 +4,7 @@ I am a practitioner passionate about building cutting-edge MLOps systems. My foc
 
 Currently, I am expanding my knowledge in automation and cybersecurity. Learning these skills is essential in today's technology landscape. Automation enables me to streamline processes, increase efficiency, and tackle complex projects. With a strong understanding of cybersecurity, I can ensure the robustness and integrity of the systems I build, protecting them from potential threats.
 
-I am always eager to collaborate with like-minded individuals who share my passion for Machine Learning, automation, and cybersecurity. Together, we can push boundaries and make a significant impact in our rapidly evolving digital world.
+I am always eager to collaborate with like-minded individuals who share my passion for Machine Learning, automation, and Cyber Security. Together, we can push boundaries and make a significant impact in our rapidly evolving digital world.
 
 Join me on this exciting journey as we combine our skills and expertise to shape the future of technology. Let's learn, grow, and seize new opportunities together!
 
