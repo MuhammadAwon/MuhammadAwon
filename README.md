@@ -1,6 +1,12 @@
 ### Hi 👋, I'm Awon!
 
-I am a practitioner with a passion for building cutting-edge MLOps systems! My primary goal is to harness the power of Machine Learning techniques to tackle real-world challenges and unlock new opportunities for growth and development. As I work on exciting projects and push the boundaries of what's possible, I'm always on the lookout for opportunities to learn, grow, and collaborate with others who share my passion for Machine Learning and Deep Learning. So why not join me on this exciting journey and let's see where we can take our skills and expertise together?
+I am a practitioner passionate about building cutting-edge MLOps systems. My focus is on harnessing the power of Machine Learning to tackle real-world challenges and unlock new opportunities for growth.
+
+Currently, I am expanding my knowledge in automation and cybersecurity. Learning these skills is essential in today's technology landscape. Automation enables me to streamline processes, increase efficiency, and tackle complex projects. With a strong understanding of cybersecurity, I can ensure the robustness and integrity of the systems I build, protecting them from potential threats.
+
+I am always eager to collaborate with like-minded individuals who share my passion for Machine Learning, automation, and cybersecurity. Together, we can push boundaries and make a significant impact in our rapidly evolving digital world.
+
+Join me on this exciting journey as we combine our skills and expertise to shape the future of technology. Let's learn, grow, and seize new opportunities together!
 
 #
 ### Updates:
