@@ -5,8 +5,8 @@ I am an aspiring practitioner with a passion for building cutting-edge MLOps sys
 #
 ### Updates:
 
-- 🔭 I’m currently working on **Dataquest Projects**.
-- 🌱 I’m currently learning **Data Science** from [Dataquest](https://www.dataquest.io/path/data-scientist/).
+<!-- - 🔭 I’m currently working on **Dataquest Projects**. -->
+- 🌱 I’m currently learning **Automation & Cybersecurity** from [Alnafi]([https://www.dataquest.io/path/data-scientist/](https://alnafi.com/?al_aid=4bcf02b3a26d439)).
 - :bulb: I’m looking to collaborate on **Data Science**, **Machine Learning**, and **Deep Learning**.
 
 #
