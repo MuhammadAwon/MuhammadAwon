@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Awon!
 
-I am an aspiring practitioner with a passion for building cutting-edge MLOps systems! My primary goal is to harness the power of Machine Learning techniques to tackle real-world challenges and unlock new opportunities for growth and development. As I work on exciting projects and push the boundaries of what's possible, I'm always on the lookout for opportunities to learn, grow, and collaborate with others who share my passion for Machine Learning and Deep Learning. So why not join me on this exciting journey and let's see where we can take our skills and expertise together?
+I am a practitioner with a passion for building cutting-edge MLOps systems! My primary goal is to harness the power of Machine Learning techniques to tackle real-world challenges and unlock new opportunities for growth and development. As I work on exciting projects and push the boundaries of what's possible, I'm always on the lookout for opportunities to learn, grow, and collaborate with others who share my passion for Machine Learning and Deep Learning. So why not join me on this exciting journey and let's see where we can take our skills and expertise together?
 
 #
 ### Updates:
